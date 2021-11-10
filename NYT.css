@@ -1,0 +1,30 @@
+nav {
+    margin-bottom: 50px;
+}
+
+.prev {
+    float: left;
+}
+
+img {
+    float: right;
+    margin-left: 20px;
+    max-width: 200px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+span{
+    background-color: #ccc;
+    
+}
+
+.article-Header {
+    text-decoration: none;
+}
+
+#articleHeader {
+    color: green;
+}
